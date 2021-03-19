@@ -44,3 +44,10 @@ This is a simple boilerplate to use when starting a new App in React. (This tuto
     > origin  git@github.com:USERNAME/NEW REPOSITORY.git (fetch)
     > origin  git@github.com:USERNAME/NEW REPOSITORY.git (push)
     ```
+    
+4. Add as normal
+    ```sh
+    git add .
+    git commit -m "new react app"
+    git push origin main
+    ```
